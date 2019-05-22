@@ -5,11 +5,10 @@ using namespace std;
 
 /* -----------------------------------------
  Bank Machine Program
- Version: 1.0
  Date: October 16, 2018
  Author: Arian Taherzadeh
  School: Glebe Collegiate Institute, Ottawa
- Course: ISC 3U 03
+ Course: ISC3U
  Teacher: Mr. Giansante
  ---------------------------------------------*/
 string clientName[11] = {"", "BOB", "CATHERINE", "JOE", "SALLY", "JIMOTHY", "HENRY", "THOMAS", "JILL", "MARY", "ARIAN"};
